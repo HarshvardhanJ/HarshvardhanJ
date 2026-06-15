@@ -1,34 +1,160 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1000&color=8A8A8A&center=true&vCenter=true&width=700&lines=AI%2FML;Backend;Linux;Systems" alt="Typing SVG" />
+</div>
 
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently developing my skill set<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with learning to work on real projects<br>🌱 I’m currently learning Machine learning, Deep learning and Rust<br>
+# Harshvardhan Jaishekhar
 
+**AI/ML • AI Engineering • Backend Development**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-jaishekhar-461134142/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11237763)
+I like building things that are useful, technically interesting, and actually shippable.
+Mostly working in ML, backend systems, and the occasional low-level rabbit hole.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshvardhanJ&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarshvardhanJ&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvardhanJ&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshvardhan-jaishekhar-461134142/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?logo=stack-overflow\&logoColor=white)](https://stackoverflow.com/users/11237763)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarshvardhanJ&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+</div>
+<!--
+<div align="center">
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@HJaishekhar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+```text
+> whoami
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HarshvardhanJ&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-->
-
+Harshvardhan Jaishekhar
+AI/ML • Backend • Systems
+```
+</div>
+-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HarshvardhanJ&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am a Materials Science and Data Science student who is more interested in the part where models, data, APIs, and systems actually work together than in making flashy demos.
+
+My focus right now is on:
+
+* Machine Learning and Deep Learning
+* AI Engineering and LLM-driven applications
+* Backend systems and API design
+* Efficient implementations and performance-minded code
+
+I like clean architecture, readable code, and projects that solve real problems without trying too hard to look impressive.
+
+---
+
+## Current Direction
+
+* Building AI/ML projects with practical use cases
+* Learning how to design better backend systems
+* Exploring RAG, retrieval, and model orchestration
+* Getting deeper into Rust and systems programming
+* Staying close to Linux and developer tooling
+
+---
+
+## Featured Projects
+
+### PaperMind
+
+A prototype AI research assistant for indexing and querying scientific papers.
+
+* Section-aware chunking and metadata extraction
+* Dense retrieval with Sentence Transformers + ChromaDB
+* RAG pipeline for structured question answering
+* Built with FastAPI, LLMs, and knowledge-graph ideas
+
+### Memory-Constrained Exact Attention
+
+A from-scratch exact attention implementation designed to reduce memory usage.
+
+* Chunked attention computation without full score matrix materialization
+* Online softmax aggregation for better memory behavior
+* Custom forward and backward passes with recomputation strategies
+* Focused on correctness, scalability, and efficiency
+
+### Placement Portal Application
+
+A full-stack placement platform with admin, company, and student workflows.
+
+* JWT auth and role-based access control
+* REST APIs for jobs, interviews, resumes, and offers
+* Redis + Celery for async tasks and bulk operations
+* Dockerized deployment and production-style backend design
+
+---
+
+## Selected Repositories
+
+A few more things from my GitHub that are worth a look:
+
+* `FlashAttention` — implementation work around memory-efficient attention
+* `PassMan` — an encrypted password manager and generator
+* `physcii` — terminal-based physics simulation
+
+Some are serious, some are just fun, and a few are both.
+
+---
+
+## Tech Stack
+
+### Languages
+
+`Python` `C++` `C` `Rust` `Lua` `SQL` `Shell`
+
+### AI / ML
+
+`PyTorch` `TensorFlow` `Keras` `scikit-learn` `Transformers` `RAG` `LLMs` `NumPy` `Pandas` `SciPy` `OpenCV`
+
+### Backend / Data
+
+`Flask` `FastAPI` `Django` `REST APIs` `SQLAlchemy` `JWT` `Redis` `Celery` `Docker` `MySQL`
+
+### Tools / Environment
+
+`Linux` `Git` `GitHub` `Neovim` `Anaconda` `AWS` `Azure`
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshvardhanJ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvardhanJ&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## A Few Things Outside the Resume
+
+* I spend too much time on Linux, which feels justified
+* I like tools that are minimal, fast, and quietly good
+* I enjoy learning by building instead of only reading
+* I prefer backend and ML work over frontend polish
+* I am always open to interesting open-source collaborations
+
+---
+
+## What This Profile Is About
+
+This profile is mostly a record of me learning how to build better systems.
+
+Not just models.
+Not just APIs.
+Not just notebooks.
+
+The goal is to connect the whole stack and make it useful.
+
+---
+
+## Connect
+
+* LinkedIn: [Harshvardhan Jaishekhar](https://www.linkedin.com/in/harshvardhan-jaishekhar-461134142/)
+* Stack Overflow: [Profile](https://stackoverflow.com/users/11237763)
+
+---
+
+<p align="center">
+  <sub>Lowkey. Practical. Slightly nerdy. Still improving.</sub>
+</p>
