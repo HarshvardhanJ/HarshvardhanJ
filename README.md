@@ -155,6 +155,3 @@ The goal is to connect the whole stack and make it useful.
 
 ---
 
-<p align="center">
-  <sub>Lowkey. Practical. Slightly nerdy. Still improving.</sub>
-</p>
